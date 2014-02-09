@@ -1,0 +1,12 @@
+D:\Work\US CS Translator\US CS Translator\bin\Debug\US CS Translator.exe.config
+D:\Work\US CS Translator\US CS Translator\bin\Debug\US CS Translator.exe
+D:\Work\US CS Translator\US CS Translator\bin\Debug\US CS Translator.pdb
+D:\Work\US CS Translator\US CS Translator\obj\Debug\US CS Translator.exe
+D:\Work\US CS Translator\US CS Translator\obj\Debug\US CS Translator.pdb
+D:\Work\US CS Translator\US CS Translator\obj\Debug\US CS Translator.csprojResolveAssemblyReference.cache
+C:\Work\US CS Translator\US CS Translator\bin\Debug\US CS Translator.exe.config
+C:\Work\US CS Translator\US CS Translator\obj\Debug\US CS Translator.exe
+C:\Work\US CS Translator\US CS Translator\obj\Debug\US CS Translator.pdb
+C:\Work\US CS Translator\US CS Translator\bin\Debug\US CS Translator.exe
+C:\Work\US CS Translator\US CS Translator\bin\Debug\US CS Translator.pdb
+C:\Work\US CS Translator\US CS Translator\obj\Debug\US CS Translator.csprojResolveAssemblyReference.cache
